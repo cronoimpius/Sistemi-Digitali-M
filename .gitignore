@@ -1,2 +1,5 @@
 # secret folder
 SDM/
+
+#checkpoints
+.ipynb_checkpoints
